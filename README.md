@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nglinhchi98
+- 👋 Hi, I’m Chi
 - 👀 I’m interested in coding and designing
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: nglinhchi65@gmail.com
