@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nglinhchi98
 - 👀 I’m interested in coding and designing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: nglinhchi65@gmail.com
 
 <!---
