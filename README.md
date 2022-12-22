@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chi
-- 👀 I’m interested in coding and designing
+- 👀 I’m interested in building websites and web applications 
 - 🌱 I’m currently learning Java and React
 - 📫 How to reach me: nglinhchi65@gmail.com
 
